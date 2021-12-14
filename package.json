@@ -1,0 +1,14 @@
+{
+  "name": "channelcleaner",
+  "version": "1.0.0",
+  "description": "Cleans a channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Salty",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.1.1"
+  }
+}
