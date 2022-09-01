@@ -9,6 +9,6 @@
   "author": "Salty",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^14.1.2"
+    "discord.js": "^14.2.0"
   }
 }
