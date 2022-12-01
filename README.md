@@ -1,5 +1,7 @@
 # Channel Cleaner
  Simple Discord Bot for mass deleting messages.
+ 
+ NOTE: This repository is OLD! Code should still work however it has not been updated in over a year so do not expect amazing functionality.
 
 # To run:
 1. Make sure Node.JS is installed.
